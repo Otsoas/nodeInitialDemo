@@ -1,0 +1,17 @@
+# Dependency directories
+node_modules/
+
+# dotenv environment variables file
+.env
+
+#
+package-lock.json
+
+#
+ecosystem.config.js
+
+# images files
+*.jpeg
+*.jpg
+*.png
+*.gif
